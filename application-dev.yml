@@ -1,4 +1,4 @@
 app:
-  name: Hello World
+  name: Hello World Testing
   url: http://localhost:8080/
   jwt: true
